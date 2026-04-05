@@ -1,40 +1,66 @@
-# Role Creation
+# Revolutionizing Agriculture with AgriEdge Or-Mange Ltd: A Salesforce-Driven Order Management Solution - Role Creation
 
-📹 **Demo Video:** [Watch the demo](https://drive.google.com/file/d/1hYuZyJwq3PTPRfiL2f-y2uE018wW7CdA/view?usp=sharing)
+**Salesforce** | **Salesforce Security** | **Salesforce Development**
 
-**Story Type:** Story  
-**Duration:** 59m  
-**Assigned to:** SRIDHAR D
+## Overview
 
----
-
-## Project Context
-
-**Revolutionizing Agriculture with AgriEdge Or-Mange Ltd: A Salesforce-Driven Order Management Solution**
-
-This documentation covers the role creation process in Salesforce for the AgriEdge Or-Mange Ltd organizational hierarchy.
+AgriEdge Or-Mange Ltd is implementing a comprehensive Salesforce-driven Order Management Solution to transform its operations. This role creation documentation covers the essential process of establishing role hierarchies in Salesforce for the AgriEdge Or-Mange Ltd organizational structure. Roles define the organizational hierarchy and control user permissions based on their position within the company, ensuring proper data access, visibility, and governance.
 
 ---
 
-## Description
+## Requirements
 
-### Creation Roles
+To successfully implement role creation and management in Salesforce for AgriEdge Or-Mange Ltd, the following requirements must be fulfilled:
 
-This guide provides step-by-step instructions for creating and managing role hierarchies in Salesforce. Roles define the organizational structure and control user permissions based on their position within the company.
-
----
-
-## Prerequisites
-
-Before getting started, ensure you have:
-
-- Administrative access to Salesforce
-- Understanding of your organizational hierarchy
-- Definitions of roles that need to be created
+- **Administrative Access:** Users must have administrative privileges to access and configure the role hierarchy in Salesforce Setup
+- **Organizational Clarity:** A clear understanding of your organizational hierarchy and reporting structure before implementation
+- **Role Definition:** Complete definitions of all roles that need to be created, including titles, responsibilities, and reporting relationships
+- **Permission Strategy:** Well-defined permission requirements for each role to ensure appropriate data access and system visibility
+- **Compliance Requirements:** Adherence to data security standards and organizational governance policies
 
 ---
 
-## Step-by-Step Instructions
+## What You'll Learn
+
+Through this implementation, you will gain expertise in:
+
+1. Salesforce Role Hierarchy concepts and architecture
+2. Creating and managing role structures in Salesforce Setup
+3. Establishing reporting relationships and organizational hierarchies
+4. Setting permissions and access control based on roles
+5. Data inheritance and visibility management
+6. Best practices for role-based access control
+
+---
+
+## Skills Required
+
+Salesforce Administration | User Management | Salesforce Configuration
+
+---
+
+## Team Members
+
+| Name             | Role      |
+| ---------------- | --------- |
+| HEAMA PREAYAN V  | Team Lead |
+| SRIDHAR D        | Member    |
+| SANTHOSH KUMAR A | Member    |
+| JEFFREY SAMUEL J | Member    |
+
+---
+
+## Project Stats
+
+| Metric        | Count       |
+| ------------- | ----------- |
+| Total Stories | 1           |
+| Duration      | 59m         |
+| Status        | In Progress |
+
+---
+
+## Instructions
 
 ### 1. Understanding Roles
 
@@ -98,6 +124,12 @@ CEO
 ## Key Features
 
 - **Role Reports To:** Establishes the reporting hierarchy
+- **Visual Representation:** Organization structure clearly displayed
+- **Permission Control:** Role-based access management
+- **Data Inheritance:** Automatic permission inheritance from parent roles
+
+📹 **Demo Video:** [Watch the demo](https://drive.google.com/file/d/1hYuZyJwq3PTPRfiL2f-y2uE018wW7CdA/view?usp=sharing)
+
 - **Add Role:** Create new child roles under any existing role
 - **Edit/Delete:** Manage existing roles
 - **Assign Users:** Link users to roles after creation

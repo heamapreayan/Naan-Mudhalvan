@@ -92,16 +92,6 @@ The solution uses Salesforce's capabilities to provide a **robust, automated, an
 - 🗃️ Archival of Completed Orders  
 - 📊 Predictive Analytics for Demand Forecasting  
 
----
-
-## 🧑‍💻 Author  
-**Mulapaka Sudharshan Reddy**  
-Final Year B.Tech (CSE) Student  
-K.S.R.M COLLEGE OF ENGINEERING  
-📧 Email: sudharshanr379@gmail.com  
-🔗 GitHub: [github.com/SudharshanMulapaka](https://github.com/SudharshanMulapaka)
-
----
 
 ## 📄 License  
 This project is intended for academic and educational purposes only.
